@@ -17,9 +17,9 @@
 
 ## 🔥 Work Experience  
 - 🏢 **Former QA Tester at HCL Technologies Ltd**  
-- 📌 **Ashoka Project** → Sony TV stack validation  
+- 📌 **Ashoka Project** → Sony stack validation  
 - 📌 **Android Bug Triage** → Pixel mobile functionality testing  
-- 📌 **EHub** → Healthcare app automation  
+- 📌 **EHub** → Healthcare web application automation  
 
 ---
 
