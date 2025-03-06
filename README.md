@@ -1,4 +1,4 @@
-### Hi there, I'm Srikanth 👋  
+<h1 align="center">Hi there, I'm Srikanth 👋</h1>  
 
 💻 **QA Engineer | Automation & Manual Testing**  
 🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
@@ -7,34 +7,41 @@
 
 ---
 
-### 🛠 Tech Stack & Skills  
-🔹 **Manual & Automation Testing**  
-🔹 **Core Java, Selenium, Maven, TestNG**  
-🔹 **Jenkins, JIRA, Buganizer, TestRail, Confluence**  
-🔹 **Android Testing & Mobile Testing**  
+## 🛠 Tech Stack & Skills  
+- ✅ **Manual & Automation Testing**  
+- ✅ **Core Java, Selenium, Maven, TestNG**  
+- ✅ **Jenkins, JIRA, Buganizer, TestRail, Confluence**  
+- ✅ **Android Testing(Mobile)**  
 
 ---
 
-### 🔥 Work Experience  
-🔹 **Former QA Tester at HCL Technologies Ltd**  
-🔹 **Ashoka Project-I** - Sony TV stack validation  
-🔹 **Android Bug Triage-II** - Pixel mobile functionality testing  
-🔹 **EHub** - Healthcare app automation  
+## 🔥 Work Experience  
+- 🏢 **Former QA Tester at HCL Technologies Ltd**  
+- 📌 **Ashoka Project** → Sony TV stack validation  
+- 📌 **Android Bug Triage** → Pixel mobile functionality testing  
+- 📌 **EHub** → Healthcare app automation  
 
 ---
 
-### 📊 GitHub Stats  
-![Srikanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
+## 📫 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tsrikanth25/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.postman.com/tsrikanth25" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-Profile-orange?style=flat&logo=postman" alt="Postman">
+  </a>
+  <a href="https://www.blogger.com/profile/15618515748889212644" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-Visit-red?style=flat&logo=blogger" alt="Blogger">
+  </a>
+  <a href="https://leetcode.com/u/T_SRIKANTH/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode" alt="LeetCode">
+  </a>
+</p>
 
 ---
 
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)  
-[![Email](https://img.shields.io/badge/Email-tsrikanth1620@gmail.com-red?style=flat&logo=gmail)](mailto:tsrikanth1620@gmail.com)  
-
----
-
-### ⚡ Fun Fact  
+## ⚡ Fun Fact  
 _"The best way to predict the future is to create it!"_ 💡  
+
