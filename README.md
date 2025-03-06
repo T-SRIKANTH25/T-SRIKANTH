@@ -2,7 +2,7 @@
 
 💻 **QA Engineer | Automation & Manual Testing**  
 🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
-📍 **Hyderabad, Telangana, India**  
+🌍 **Hyderabad, Telangana, India**  
 🚀 **Actively seeking new opportunities in Software Testing**  
 
 ---
