@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me  
 
-A **QA Engineer with 2.7+ years of experience**, I specialize in **manual and automation testing** across **mobile, web, and Android TV applications**. Passionate about **ensuring software quality**, I have expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
+**QA Engineer with 2.7+ years of experience**, I specialize in **manual and automation testing** across **mobile, web, and Android TV applications**. Passionate about **ensuring software quality**, I have expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
 
 ### 🛠 **Tech Stack & Skills**  
 - **Automation & Manual Testing** → Selenium, TestNG, Maven, POM, OOP  
