@@ -12,31 +12,31 @@
 ### QA Engineer – HCL Technologies Ltd | Hyderabad | *Feb 2022 – Sep 2024*  
 **Projects:** Enrollment Hub (Healthcare), Ashoka (Sony), Android Bug Triage (Google)  
 
-- Designed and executed automation test cases using **Selenium, TestNG, Maven** with **POM framework**  
-- Performed **regression, smoke, functional, end-to-end, UI, and integration testing**  
-- Integrated **CI/CD pipelines** with Git and logged defects in **JIRA**  
-- Conducted **API testing** with Postman and documented reports  
-- Worked in **Agile/Scrum**, mentored junior QAs, and contributed to process improvements  
-- Executed **system, regression, smoke, exploratory testing** with test cases in **Excel/TestRail**  
-- Managed defect tracking in **JIRA**, log analysis via **ADB/CMD/Tera Term**, and software updates using **Flash Tool**  
-- Created and maintained **test cases/scenarios**, defect reports, and recommended fixes  
-- Prepared documentation/reports in **Confluence** and conducted KT sessions  
+- Designed and executed automation test cases using **Selenium, TestNG, Maven** with **POM framework**.  
+- Performed **regression, smoke, functional, end-to-end, UI, and integration testing**.  
+- Integrated **CI/CD pipelines** with Git and logged defects in **JIRA**.  
+- Conducted **API testing** with Postman and documented reports.  
+- Worked in **Agile/Scrum**, mentored junior QAs, and contributed to process improvements.  
+- Executed **system, regression, smoke, exploratory testing** with test cases in **Excel/TestRail**.  
+- Managed defect tracking in **JIRA**, log analysis via **ADB/CMD/Tera Term**, and software updates using **Flash Tool**.  
+- Created and maintained **test cases/scenarios**, defect reports, and recommended fixes.  
+- Prepared documentation/reports in **Confluence** and conducted KT sessions.  
 
 ---
 
 ### QA Automation Engineer – Witness Manera | Mumbai | *May 2025 – Present*  
 **Project:** Zency (Q-Commerce)  
 
-- Tested Android apps using **Appium** and **Appium Inspector**, validated on virtual devices via **Android Studio**  
-- Wrote automation scripts in **Visual Studio Code**, created test cases for **functional, non-functional, and negative scenarios**  
-- Performed **performance testing** using **JMeter**  
-- Conducted **end-to-end testing** on Zency mobile and web apps, covering multiple Android versions and device configurations  
+- Tested Android apps using **Appium** and **Appium Inspector**, validated on virtual devices via **Android Studio**.  
+- Wrote automation scripts in **Visual Studio Code** and created test cases for **functional, non-functional, and negative scenarios**.  
+- Performed **performance testing** using **JMeter**.  
+- Conducted **end-to-end testing** on Zency mobile and web apps, covering multiple Android versions and device configurations.  
 
 ---
 
 ## 👨‍💻 About Me  
 
-**QA Automation Engineer with 3 years of experience** in manual and automation testing across **mobile, web, and Android TV applications**.  
+**QA Automation Engineer with 3+ years of experience** in manual and automation testing across **mobile, web, and Android TV applications**.  
 Passionate about **software quality**, with expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
 
 🎯 **Goal:** Build scalable automation frameworks and deliver high-quality software solutions that improve user experience.  
@@ -45,13 +45,15 @@ Passionate about **software quality**, with expertise in **automation frameworks
 
 ## 🛠 Tech Stack & Skills  
 
-- **Automation & Manual Testing** → Core Java, Selenium, Postman, Maven, TestNG, Jenkins, Git, Appium, Android Studio, Eclipse, VS Code  
-- **Performance & API Testing** → JMeter, Postman, RestAssured  
-- **Database** → PostgreSQL, SQL  
-- **Defect Management & Tracking** → JIRA, Buganizer, TestRail  
-- **Collaboration & Documentation** → Confluence, Agile/Scrum  
-- **Log Analysis & Debugging** → ADB, Tera Term  
-- **Web & Mobile Skills** → HTML, Android Testing  
+- **Programming & Automation:** Core Java, Selenium, Maven, TestNG  
+- **CI/CD & Build Tools:** Jenkins, Git  
+- **Mobile Automation:** Appium, Android Studio, ADB, Android Testing  
+- **Performance & API Testing:** JMeter, RestAssured, Postman  
+- **Database:** PostgreSQL, SQL  
+- **Defect Management & Tracking:** JIRA, Buganizer, TestRail  
+- **Collaboration & Documentation:** Confluence, Agile/Scrum  
+- **IDE & Tools:** Eclipse, VS Code, Tera Term  
+- **Web Technologies:** HTML  
 
 ---
 
@@ -81,7 +83,7 @@ Passionate about **software quality**, with expertise in **automation frameworks
 
 📧 **Email:** [tsrikanth1620@gmail.com](mailto:tsrikanth1620@gmail.com)  
 📱 **Phone:** +91 8919334901  
-📍 **Location:** Gadwal, Telangana, India  
+📍 **Location:** Jogulamba Gadwal, Telangana, India, 509128  
 
 ---
 
