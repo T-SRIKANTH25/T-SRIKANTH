@@ -1,77 +1,90 @@
 <h1 align="center">Hi there, I'm Srikanth 👋</h1>
 
-💻 QA Engineer | Automation & Manual Testing
-🎓 B.Tech in ECE | CMR Engineering College (2020)
-🌍 Hyderabad, Telangana, India
-🚀 Actively seeking new opportunities in Software Testing
+💻 **QA Engineer | Automation & Manual Testing**  
+🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
+🌍 **Hyderabad, Telangana, India**  
+🚀 **Actively seeking new opportunities in Software Testing**  
 
-🔥 Work Experience
-QA Engineer – HCL Technologies Ltd | Hyderabad | Feb 2022 – Sep 2024
+---
 
-Projects: Enrollment Hub (Healthcare), Ashoka (Sony), Android Bug Triage (Google)
+## 🔥 Work Experience  
 
-Designed and executed automation test cases using Selenium, TestNG, Maven with POM framework.
+### QA Engineer – HCL Technologies Ltd | Hyderabad | *Feb 2022 – Sep 2024*  
+**Projects:** Enrollment Hub (Healthcare), Ashoka (Sony), Android Bug Triage (Google)  
 
-Performed regression, smoke, functional, end-to-end, UI, and integration testing.
+- Designed and executed automation test cases using **Selenium, TestNG, Maven** with **POM framework**  
+- Performed **regression, smoke, functional, end-to-end, UI, and integration testing**  
+- Integrated **CI/CD pipelines** with Git and logged defects in **JIRA**  
+- Conducted **API testing** with Postman and documented reports  
+- Worked in **Agile/Scrum**, mentored junior QAs, and contributed to process improvements  
+- Executed **system, regression, smoke, exploratory testing** with test cases in **Excel/TestRail**  
+- Managed defect tracking in **JIRA**, log analysis via **ADB/CMD/Tera Term**, and software updates using **Flash Tool**  
+- Created and maintained **test cases/scenarios**, defect reports, and recommended fixes  
+- Prepared documentation/reports in **Confluence** and conducted KT sessions  
 
-Integrated CI/CD pipelines with Git and logged defects in JIRA.
+---
 
-Conducted API testing with Postman and documented reports.
+### QA Automation Engineer – Witness Manera | Mumbai | *May 2025 – Present*  
+**Project:** Zency (Q-Commerce)  
 
-Worked in Agile/Scrum, mentored junior QAs, and contributed to process improvements.
+- Tested Android apps using **Appium** and **Appium Inspector**, validated on virtual devices via **Android Studio**  
+- Wrote automation scripts in **Visual Studio Code**, created test cases for **functional, non-functional, and negative scenarios**  
+- Performed **performance testing** using **JMeter**  
+- Conducted **end-to-end testing** on Zency mobile and web apps, covering multiple Android versions and device configurations  
 
-Executed system, regression, smoke, exploratory testing with test cases in Excel/TestRail.
+---
 
-Managed defect tracking in JIRA, log analysis via ADB/CMD/Tera Term, and software updates using Flash Tool.
+## 👨‍💻 About Me  
 
-Created and maintained test cases/scenarios, defect reports, and recommended fixes.
+**QA Automation Engineer with 3 years of experience** in manual and automation testing across **mobile, web, and Android TV applications**.  
+Passionate about **software quality**, with expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
 
-Prepared documentation/reports in Confluence and conducted KT sessions.
+🎯 **Goal:** Build scalable automation frameworks and deliver high-quality software solutions that improve user experience.  
 
-QA Automation Engineer – Witness Manera | Mumbai | May 2025 – Present
+---
 
-Project: Zency (Q-Commerce)
+## 🛠 Tech Stack & Skills  
 
-Tested Android apps using Appium and Appium Inspector, validated on virtual devices via Android Studio.
+- **Automation & Manual Testing** → Core Java, Selenium, Postman, Maven, TestNG, Jenkins, Git, Appium, Android Studio, Eclipse, VS Code  
+- **Performance & API Testing** → JMeter, Postman, RestAssured  
+- **Database** → PostgreSQL, SQL  
+- **Defect Management & Tracking** → JIRA, Buganizer, TestRail  
+- **Collaboration & Documentation** → Confluence, Agile/Scrum  
+- **Log Analysis & Debugging** → ADB, Tera Term  
+- **Web & Mobile Skills** → HTML, Android Testing  
 
-Wrote automation scripts in Visual Studio Code, created test cases for functional, non-functional, and negative scenarios.
+---
 
-Performed performance testing using JMeter.
+## 📫 Connect With Me  
 
-Conducted end-to-end testing on Zency mobile and web apps, covering multiple Android versions and device configurations.
+<p align="left">
+  <a href="https://www.linkedin.com/in/tsrikanth25/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.postman.com/tsrikanth25" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-Profile-orange?style=flat&logo=postman" alt="Postman">
+  </a>
+  <a href="https://www.blogger.com/profile/15618515748889212644" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-Visit-red?style=flat&logo=blogger" alt="Blogger">
+  </a>
+  <a href="https://leetcode.com/u/T_SRIKANTH/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode" alt="LeetCode">
+  </a>
+  <a href="https://bio.link/tsrikanth" target="_blank">
+    <img src="https://img.shields.io/badge/BioLink-Portfolio-brightgreen?style=flat&logo=linktree" alt="Bio Link">
+  </a>
+</p>  
 
-👨‍💻 About Me
+---
 
-QA Automation Engineer with 3 years of experience, I specialize in manual and automation testing across mobile, web, and Android TV applications. Passionate about ensuring software quality, I have expertise in automation frameworks, API testing, defect management, and CI/CD integration.
+## 📩 Contact Me  
 
-🎯 Goal: To develop scalable automation frameworks and contribute to high-quality software solutions that enhance user experience.
+📧 **Email:** [tsrikanth1620@gmail.com](mailto:tsrikanth1620@gmail.com)  
+📱 **Phone:** +91 8919334901  
+📍 **Location:** Gadwal, Telangana, India  
 
-🛠 Tech Stack & Skills
+---
 
-Automation & Manual Testing → Core Java, Selenium, Postman, Maven, TestNG, Jenkins, Git, Appium, Android Studio, Eclipse, VS Code
+## ⚡ Fun Fact  
 
-Performance & API Testing → JMeter, Postman, RestAssured
-
-Database → PostgreSQL, SQL
-
-Defect Management & Tracking → JIRA, Buganizer, TestRail
-
-Collaboration & Documentation → Confluence, Agile/Scrum
-
-Log Analysis & Debugging → ADB, Tera Term
-
-Web & Mobile Skills → HTML, Android Testing
-
-📫 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/tsrikanth25/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"> </a> <a href="https://www.postman.com/tsrikanth25" target="_blank"> <img src="https://img.shields.io/badge/Postman-Profile-orange?style=flat&logo=postman" alt="Postman"> </a> <a href="https://www.blogger.com/profile/15618515748889212644" target="_blank"> <img src="https://img.shields.io/badge/Blogger-Visit-red?style=flat&logo=blogger" alt="Blogger"> </a> <a href="https://leetcode.com/u/T_SRIKANTH/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat&logo=leetcode" alt="LeetCode"> </a> <a href="https://bio.link/tsrikanth" target="_blank"> <img src="https://img.shields.io/badge/BioLink-Portfolio-brightgreen?style=flat&logo=linktree" alt="Bio Link"> </a> </p>
-📩 Contact Me
-
-📧 Email: tsrikanth1620@gmail.com
-
-📱 Phone: +91 8919334901
-📍 Location: Gadwal, Telangana, India
-🔗 Bio Link (All Profiles): bio.link/tsrikanth
-
-⚡ Fun Fact
-
-"The best way to predict the future is to create it!" 💡
+_"The best way to predict the future is to create it!"_ 💡  
