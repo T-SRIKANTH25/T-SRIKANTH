@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me  
 
-**QA Automation Engineer with 3+ years of experience** in manual and automation testing across **mobile, web, and Android TV applications**.  
+**QA Automation Engineer with 3 years of experience** in manual and automation testing across **mobile, web, and Android TV applications**.  
 Passionate about **software quality**, with expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
 
 🎯 **Goal:** Build scalable automation frameworks and deliver high-quality software solutions that improve user experience.  
