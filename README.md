@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me  
 
-**QA Automation Engineer with 3 years of experience** in manual and automation testing across **mobile, web, and Android TV applications**.  
+**QA Automation Engineer with 3 years of experience** in manual and automation testing across **mobile, web, and Android applications**.  
 Passionate about **software quality**, with expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
 
 🎯 **Goal:** Build scalable automation frameworks and deliver high-quality software solutions that improve user experience.  
@@ -45,7 +45,7 @@ Passionate about **software quality**, with expertise in **automation frameworks
 
 ## 🛠 Tech Stack & Skills  
 
-- **Programming & Automation:** Core Java, Selenium, Maven, TestNG  
+- **Programming & Automation:** Core Java, Selenium, Maven, TestNG, Katalon Studio 
 - **CI/CD & Build Tools:** Jenkins, Git  
 - **Mobile Automation:** Appium, Android Studio, ADB, Android Testing  
 - **Performance & API Testing:** JMeter, RestAssured, Postman  
