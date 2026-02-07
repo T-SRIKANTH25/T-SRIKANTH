@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Srikanth 👋</h1>
 
-💻 **QA Engineer | Automation & Manual Testing**  
+💻 **QA Automation Engineer | Automation & Manual Testing | 3+ Years of Expereince**  
 🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
-🌍 **Munagala, Itikyal, Jogulamba Gadwal, Telangana, India, 509128**  
+🌍 **Jogulamba Gadwal, Telangana, India, 509128**  
 🚀 **Actively seeking new opportunities in Software Testing**  
 
 ---
@@ -22,10 +22,12 @@
 - Created and maintained **test cases/scenarios**, defect reports, and recommended fixes.  
 - Prepared documentation/reports in **Confluence** and conducted KT sessions.
 - Performed data integrity validation using basic SQL queries and assisted in backend testing activities.
+- Tested google pixel devices and analyse test results and logs, troubleshoot issues, and work with developers to resolve
+defects.
 
 ---
 
-### QA Automation Engineer – Witness Manera | Mumbai | *May 2025 – Present*  
+### QA Automation Engineer – Witness Manera | Mumbai | *May 2025 – Dec 2025*  
 **Project:** Zency (Q-Commerce)  
 
 - Design & Develop Automated Test Scripts: Built scalable and reusable automation test cases for mobile and web applications using Appium, Selenium, Playwright and JavaScript.
@@ -41,7 +43,7 @@
 
 ## 👨‍💻 About Me  
 
-**QA Automation Engineer with 3 years of experience** in manual and automation testing across **mobile, web, and Android applications**.  
+**QA Automation Engineer with 3+ years of experience** in manual and automation testing across **mobile, web, and Android applications**.  
 Passionate about **software quality**, with expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
 
 🎯 **Goal:** Build scalable automation frameworks and deliver high-quality software solutions that improve user experience.  
@@ -88,7 +90,7 @@ Passionate about **software quality**, with expertise in **automation frameworks
 
 📧 **Email:** [tsrikanth1620@gmail.com](mailto:tsrikanth1620@gmail.com)  
 📱 **Phone:** +91 8919334901  
-📍 **Location:** Jogulamba Gadwal, Telangana, India, 509128  
+📍 **Location:** Munagala, Itikyal, Jogulamba Gadwal, Telangana, India, 509128  
 
 ---
 
