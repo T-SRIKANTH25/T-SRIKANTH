@@ -2,7 +2,7 @@
 
 💻 **QA Engineer | Automation & Manual Testing**  
 🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
-🌍 **Hyderabad, Telangana, India**  
+🌍 **Munagala, Itikyal, Jogulamba Gadwal, Telangana, India, 509128**  
 🚀 **Actively seeking new opportunities in Software Testing**  
 
 ---
@@ -12,7 +12,7 @@
 ### QA Engineer – HCL Technologies Ltd | Hyderabad | *Feb 2022 – Sep 2024*  
 **Projects:** Enrollment Hub (Healthcare), Ashoka (Sony), Android Bug Triage (Google)  
 
-- Designed and executed automation test cases using **Selenium, TestNG, Maven** with **POM framework**.  
+- Designed and executed automation test cases using **Selenium, TestNG, Maven** with **POM framework**, OOPS concepts.  
 - Performed **regression, smoke, functional, end-to-end, UI, and integration testing**.  
 - Integrated **CI/CD pipelines** with Git and logged defects in **JIRA**.  
 - Conducted **API testing** with Postman and documented reports.  
@@ -20,17 +20,22 @@
 - Executed **system, regression, smoke, exploratory testing** with test cases in **Excel/TestRail**.  
 - Managed defect tracking in **JIRA**, log analysis via **ADB/CMD/Tera Term**, and software updates using **Flash Tool**.  
 - Created and maintained **test cases/scenarios**, defect reports, and recommended fixes.  
-- Prepared documentation/reports in **Confluence** and conducted KT sessions.  
+- Prepared documentation/reports in **Confluence** and conducted KT sessions.
+- Performed data integrity validation using basic SQL queries and assisted in backend testing activities.
 
 ---
 
 ### QA Automation Engineer – Witness Manera | Mumbai | *May 2025 – Present*  
 **Project:** Zency (Q-Commerce)  
 
-- Tested Android apps using **Appium** and **Appium Inspector**, validated on virtual devices via **Android Studio**.  
-- Wrote automation scripts in **Visual Studio Code** and created test cases for **functional, non-functional, and negative scenarios**.  
-- Performed **performance testing** using **JMeter**.  
-- Conducted **end-to-end testing** on Zency mobile and web apps, covering multiple Android versions and device configurations.  
+- Design & Develop Automated Test Scripts: Built scalable and reusable automation test cases for mobile and web applications using Appium, Selenium, Playwright and JavaScript.
+- Test Execution & Maintenance: Executed automated test suites, analyzed results, and ensured alignment with functional and non-functional requirements.
+- Cross-Functional Collaboration: Worked closely with development, product, and Dev teams to refine requirements, resolve issues, and improve QA processes.
+- Defect Management: Logged, tracked, and prioritized bugs using JIRA; verified fixes and regression issues.
+- Test Environment Setup: Prepared test environments, managed test data, and conducted Postman API testing and PostgreSQL, SQL validations.
+- CI/CD Optimization: Integrated automated tests into CI/CD pipelines with Git and Jenkins for continuous testing and rapid delivery.
+- Conducted performance testing using JMeter, end-to-end testing across multiple Android versions and devices, and documented test cases and reports.
+- Automated functional and regression test cases using Katalon Studio for web applications  
 
 ---
 
@@ -45,8 +50,8 @@ Passionate about **software quality**, with expertise in **automation frameworks
 
 ## 🛠 Tech Stack & Skills  
 
-- **Programming & Automation:** Core Java, Selenium, Maven, TestNG, Katalon Studio 
-- **CI/CD & Build Tools:** Jenkins, Git  
+- **Programming & Automation:** Core Java, Selenium, Playwright, JavaScript, Maven, TestNG, Katalon Studio, Basics of Python
+- **CI/CD & Build Tools:** Jenkins, Git, Github
 - **Mobile Automation:** Appium, Android Studio, ADB, Android Testing  
 - **Performance & API Testing:** JMeter, RestAssured, Postman  
 - **Database:** PostgreSQL, SQL  
