@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Srikanth 👋</h1>
 
-💻 **QA Automation Engineer | Automation & Manual Testing | 3+ Years of Expereince**  
+💻 **QA Automation Engineer | Automation & Manual Testing | 3+ Years of Experience**  
 🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
 🌍 **Jogulamba Gadwal, Telangana, India, 509128**  
 🚀 **Actively seeking new opportunities in Software Testing**  
