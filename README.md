@@ -60,7 +60,8 @@ Passionate about **software quality**, with expertise in **automation frameworks
 - **Defect Management & Tracking:** JIRA, Buganizer, TestRail  
 - **Collaboration & Documentation:** Confluence, Agile/Scrum  
 - **IDE & Tools:** Eclipse, VS Code, Tera Term  
-- **Web Technologies:** HTML  
+- **Web Technologies:** HTML
+-  **AI Tool:** Testim.io 
 
 ---
 
