@@ -10,7 +10,7 @@
 ## 🔥 Work Experience  
 
 ### QA Engineer – HCL Technologies Ltd | Hyderabad | *Feb 2022 – Sep 2024*  
-**Projects:** Enrollment Hub (Healthcare), Ashoka (Sony), Android Bug Triage (Google)  
+**Projects:** Enrollment (Healthcare), Ashoka (Sony), Android Bug Triage (Google)  
 
 - Designed and executed automation test cases using **Selenium, TestNG, Maven** with **POM framework**, OOPS concepts.  
 - Performed **regression, smoke, functional, end-to-end, UI, and integration testing**.  
