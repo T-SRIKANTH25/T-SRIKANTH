@@ -61,7 +61,7 @@ Passionate about **software quality**, with expertise in **automation frameworks
 - **Collaboration & Documentation:** Confluence, Agile/Scrum  
 - **IDE & Tools:** Eclipse, VS Code, Tera Term  
 - **Web Technologies:** HTML
--  **AI Tool:** Testim.io 
+-  **AI Tool:** Testim.io, UiPath Test Suite
 
 ---
 
