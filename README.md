@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Srikanth 👋</h1>
 
-💻 **QA Automation Engineer | Automation & Manual Testing | 3+ Years of Experience**  
+💻 **Quality Analyst Specialist | Automation & Manual Testing | 3+ Years of Experience**  
 🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
 🌍 **Jogulamba Gadwal, Telangana, India, 509128**  
 🚀 **Actively seeking new opportunities in Software Testing**  
@@ -37,7 +37,12 @@ defects.
 - Test Environment Setup: Prepared test environments, managed test data, and conducted Postman API testing and PostgreSQL, SQL validations.
 - CI/CD Optimization: Integrated automated tests into CI/CD pipelines with Git and Jenkins for continuous testing and rapid delivery.
 - Conducted performance testing using JMeter, end-to-end testing across multiple Android versions and devices, and documented test cases and reports.
-- Automated functional and regression test cases using Katalon Studio for web applications  
+- Automated functional and regression test cases using Katalon Studio for web applications
+  ---
+
+### Quality Analyst Specialist – TeamsWork.In | Remote | *March 2026 – Present*  
+**Project:** JP (Telecom)    
+- JP Testting across both Web and Mobile platforms
 
 ---
 
@@ -61,7 +66,7 @@ Passionate about **software quality**, with expertise in **automation frameworks
 - **Collaboration & Documentation:** Confluence, Agile/Scrum  
 - **IDE & Tools:** Eclipse, VS Code, Tera Term  
 - **Web Technologies:** HTML
--  **AI Tool:** Testim.io, UiPath Test Suite
+-  **AI Tool:** Testim.io, UiPath Test Suite, TestMu AI
 
 ---
 
