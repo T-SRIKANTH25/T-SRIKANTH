@@ -37,7 +37,8 @@ defects.
 - Test Environment Setup: Prepared test environments, managed test data, and conducted Postman API testing and PostgreSQL, SQL validations.
 - CI/CD Optimization: Integrated automated tests into CI/CD pipelines with Git and Jenkins for continuous testing and rapid delivery.
 - Conducted performance testing using JMeter, end-to-end testing across multiple Android versions and devices, and documented test cases and reports.
-- Automated functional and regression test cases using Katalon Studio for web applications
+- Automated functional and regression test cases using katalon Studio for web applications
+  
   ---
 
 ### Quality Analyst Specialist – TeamsWork.In | Remote | *March 2026 – Present*  
@@ -48,7 +49,7 @@ defects.
 
 ## 👨‍💻 About Me  
 
-**QA Automation Engineer with 3+ years of experience** in manual and automation testing across **mobile, web, and Android applications**.  
+**Quality Analyst Specialist with 3+ years of experience** in manual and automation testing across **mobile, web, and Android applications**.  
 Passionate about **software quality**, with expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
 
 🎯 **Goal:** Build scalable automation frameworks and deliver high-quality software solutions that improve user experience.  
