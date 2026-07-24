@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Srikanth 👋</h1>
 
-👨‍💻 **Quality Analyst Specialist | Automation & Manual Testing | 3+ Years of Experience**  
+👨‍💻 **Quality Analyst Specialist@Teamswork | Automation & Manual Testing | 3+ Years of Experience**  
 🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
 🌍 **Jogulamba Gadwal, Telangana, India, 509128**  
 🚀 **Actively seeking new opportunities in Software Testing**  
@@ -43,7 +43,14 @@ defects.
 
 ### Quality Analyst Specialist – TeamsWork.In | Remote | *March 2026 – Present*  
 **Project:** JP (Telecom)    
-- JP Testting across both Web and Mobile platforms
+- Domain: Telecom
+- Led QA activities, coordinated with team members, and participated in Agile sprint ceremonies to ensure timely delivery.
+- Designed and executed end-to-end test cases for web and mobile applications from scratch across multiple environments.
+- Performed functional, regression, integration, exploratory, manual, and automation testing to ensure application quality and consistent user experience across browsers and platforms.
+- Designed and maintained automation frameworks using Playwright, TestMu AI, and KaneAI, following POM and OOP principles, while contributing to framework enhancements and process improvements.
+- Managed defects using Jira, collaborated with developers and stakeholders via Slack, investigated issues, validated fixes, and ensured traceability between requirements, test cases, and defects.
+- Managed automation pipelines, monitored test executions, analyzed failures, conducted root cause analysis, and ensured stable releases across real and cloud-based devices.
+- Supported test planning, requirement reviews, release validation activities, and production readiness to maintain high-quality deliverables.
 
 ---
 
@@ -67,7 +74,7 @@ Passionate about **software quality**, with expertise in **automation frameworks
 - **Collaboration & Documentation:** Confluence, Agile/Scrum  
 - **IDE & Tools:** Eclipse, VS Code, Tera Term  
 - **Web Technologies:** HTML
--  **AI Tool:** Testim.io, UiPath Test Suite, TestMu AI
+-  **AI Tool:** Testim.io, UiPath Test Suite, TestMu AI, KaneAI
 
 ---
 
