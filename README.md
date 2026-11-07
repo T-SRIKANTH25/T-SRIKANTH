@@ -56,7 +56,7 @@
 
 ## 👨‍💻 About Me  
 
-**Quality Analyst Specialist with 3+ years of experience** in manual and automation testing across **mobile, web, and Android applications**.  
+**Quality Analyst Specialist with 3.10+ years of experience** in manual and automation testing across **mobile, web, and Android applications**.  
 Passionate about **software quality**, with expertise in **automation frameworks, API testing, defect management, and CI/CD integration**.  
 
 🎯 **Goal:** Build scalable automation frameworks and deliver high-quality software solutions that improve user experience.  
