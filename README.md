@@ -14,7 +14,6 @@
 
 - Designed and executed automation test cases using **Selenium, TestNG, Maven** with **POM framework**, OOPS concepts.  
 - Performed **regression, smoke, functional, end-to-end, UI, and integration testing**.
-- Managed defects using Jira, **AIO Tests**, collaborated with developers and stakeholders via Slack, investigated issues, validated fixes, and ensured   traceability    between requirements, test cases, and defects. 
 - Integrated **CI/CD pipelines** with Git and logged defects in **JIRA**.  
 - Conducted **API testing** with Postman and documented reports.  
 - Worked in **Agile/Scrum**, mentored junior QAs, and contributed to process improvements.  
@@ -49,7 +48,7 @@ defects.
 - Designed and executed end-to-end test cases for web and mobile applications from scratch across multiple environments.
 - Performed functional, regression, integration, exploratory, manual, and automation testing to ensure application quality and consistent user experience across browsers and platforms.
 - Designed and maintained automation frameworks using Playwright, TestMu AI, and KaneAI, following POM and OOP principles, while contributing to framework enhancements and process improvements.
-- Managed defects using Jira, collaborated with developers and stakeholders via Slack, investigated issues, validated fixes, and ensured traceability between requirements, test cases, and defects.
+- - Managed defects using Jira, **AIO Tests**, collaborated with developers and stakeholders via Slack, investigated issues, validated fixes, and ensured   traceability    between requirements, test cases, and defects. 
 - Managed automation pipelines, monitored test executions, analyzed failures, conducted root cause analysis, and ensured stable releases across real and cloud-based devices.
 - Supported test planning, requirement reviews, release validation activities, and production readiness to maintain high-quality deliverables.
 
