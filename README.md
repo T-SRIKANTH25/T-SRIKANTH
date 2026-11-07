@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Srikanth 👋</h1>
 
-👨‍💻 **Quality Analyst Specialist@Teamswork | Automation & Manual Testing | 3+ Years of Experience**  
+👨‍💻 **Quality Assurance Specialist @Teamswork | Automation & Manual Testing | 3.10+ Years of Experience**  
 🎓 **B.Tech in ECE | CMR Engineering College (2020)**  
 🌍 **Jogulamba Gadwal, Telangana, India, 509128**  
 🚀 **Actively seeking new opportunities in Software Testing**  
@@ -13,7 +13,8 @@
 **Projects:** Enrollment (Healthcare), Ashoka (Sony), Android Bug Triage (Google)  
 
 - Designed and executed automation test cases using **Selenium, TestNG, Maven** with **POM framework**, OOPS concepts.  
-- Performed **regression, smoke, functional, end-to-end, UI, and integration testing**.  
+- Performed **regression, smoke, functional, end-to-end, UI, and integration testing**.
+- Managed defects using Jira, **AIO Tests**, collaborated with developers and stakeholders via Slack, investigated issues, validated fixes, and ensured   traceability    between requirements, test cases, and defects. 
 - Integrated **CI/CD pipelines** with Git and logged defects in **JIRA**.  
 - Conducted **API testing** with Postman and documented reports.  
 - Worked in **Agile/Scrum**, mentored junior QAs, and contributed to process improvements.  
