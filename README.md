@@ -23,7 +23,7 @@
 - Prepared documentation/reports in **Confluence** and conducted KT sessions.
 - Performed data integrity validation using basic SQL queries and assisted in backend testing activities.
 - Tested google pixel devices and analyse test results and logs, troubleshoot issues, and work with developers to resolve
-defects.
+  defects.
 
 ---
 
@@ -46,10 +46,10 @@ defects.
 
 - Led QA activities, coordinated with team members, and participated in Agile sprint ceremonies to ensure timely delivery.
 - Designed and executed end-to-end test cases for web and mobile applications from scratch across multiple environments.
-- Performed functional, regression, integration, exploratory, manual, and automation testing to ensure application quality and consistent user experience across browsers and platforms.
+- Performed functional, regression, integration, exploratory, manual, and automation testing to ensure application quality and consistent user experience across    browsers and platforms.
 - Designed and maintained automation frameworks using Playwright, TestMu AI, and KaneAI, following POM and OOP principles, while contributing to framework enhancements and process improvements.
-- - Managed defects using Jira, **AIO Tests**, collaborated with developers and stakeholders via Slack, investigated issues, validated fixes, and ensured   traceability    between requirements, test cases, and defects. 
-- Managed automation pipelines, monitored test executions, analyzed failures, conducted root cause analysis, and ensured stable releases across real and cloud-based devices.
+- Managed defects using Jira, **AIO Tests**, collaborated with developers and stakeholders via Slack, investigated issues, validated fixes, and ensured   traceability    between requirements, test cases, and defects. 
+- Managed automation pipelines, monitored test executions, analyzed failures, conducted root cause analysis, and ensured stable releases across real and cloud-   based devices.
 - Supported test planning, requirement reviews, release validation activities, and production readiness to maintain high-quality deliverables.
 
 ---
